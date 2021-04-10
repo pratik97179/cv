@@ -1,2 +1,2 @@
 # cv
-Basic cv using HTML 
+Basic CV using HTML 
